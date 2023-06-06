@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tracking-redux-toolkit2/static/css/main.e287466b.chunk.css",
+    "main.js": "/Tracking-redux-toolkit2/static/js/main.cf76b087.chunk.js",
+    "main.js.map": "/Tracking-redux-toolkit2/static/js/main.cf76b087.chunk.js.map",
+    "runtime-main.js": "/Tracking-redux-toolkit2/static/js/runtime-main.a1840ef3.js",
+    "runtime-main.js.map": "/Tracking-redux-toolkit2/static/js/runtime-main.a1840ef3.js.map",
+    "static/js/2.f0356da8.chunk.js": "/Tracking-redux-toolkit2/static/js/2.f0356da8.chunk.js",
+    "static/js/2.f0356da8.chunk.js.map": "/Tracking-redux-toolkit2/static/js/2.f0356da8.chunk.js.map",
+    "index.html": "/Tracking-redux-toolkit2/index.html",
+    "precache-manifest.c0b867afb3b03007595fde38ed53c777.js": "/Tracking-redux-toolkit2/precache-manifest.c0b867afb3b03007595fde38ed53c777.js",
+    "service-worker.js": "/Tracking-redux-toolkit2/service-worker.js",
+    "static/css/main.e287466b.chunk.css.map": "/Tracking-redux-toolkit2/static/css/main.e287466b.chunk.css.map",
+    "static/js/2.f0356da8.chunk.js.LICENSE.txt": "/Tracking-redux-toolkit2/static/js/2.f0356da8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1840ef3.js",
+    "static/js/2.f0356da8.chunk.js",
+    "static/css/main.e287466b.chunk.css",
+    "static/js/main.cf76b087.chunk.js"
+  ]
+}
